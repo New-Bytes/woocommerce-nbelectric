@@ -1,0 +1,4 @@
+# Archivos de desarrollo que no se publican.
+/bin/
+/.claude/
+/dist/
